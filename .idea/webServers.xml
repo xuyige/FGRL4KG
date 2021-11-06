@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0083dd8e-ed63-4d84-b3c9-f0323247684c" name="ygxu" url="http://222.73.22.191">
+        <fileTransfer host="222.73.22.191" port="49393" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="49393" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
